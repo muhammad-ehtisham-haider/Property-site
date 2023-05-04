@@ -1,0 +1,49 @@
+/* .slid{
+    background-color: black;
+    padding: 50px 0;
+
+} */
+.house{
+    width: 250px !important;
+    height: 400px;
+   
+}
+/* .slick-slider{
+    padding-left: 50px;
+} */
+h2{
+    color: darkblue;
+    font-weight: bolder;
+}
+.btn-2 button{
+    color: blue;
+    padding: 10px 15px;
+    box-shadow: 0 0 8px 5px gray;
+    border: none;
+}
+h5{
+    font-weight: 700;
+}
+h5 span{
+    color: orange;
+}
+.house h3{
+    color: darkblue;
+    margin-top: -10px;
+}
+.house p{
+    font-size: 15px;
+    color: gray;
+}
+.card{
+    border: none !important;
+    outline: none !important;
+    /* transition: transform .8s; */
+    transition: all .8s;
+}
+.card:hover{
+    background-color: aliceblue;
+    cursor: pointer;
+    transition: all 8ms;
+    transform: scale(1.01);
+}

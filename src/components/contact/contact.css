@@ -1,0 +1,34 @@
+.basic{
+    border: 1px solid orange;
+    box-sizing: border-box;
+    padding: 10px;
+
+}
+.center{
+    /* background-color: orange; */
+    margin-left: 0.5px;
+}
+.icon{
+    width: 50px;
+    height: 50px;
+    border: none;
+    display: grid;
+    place-items: center;
+    border-radius: 5px;
+    background-color: rgb(215, 234, 250);
+    color: blue;
+    cursor: pointer;
+    font-size: 20px;
+}
+.btn-2{
+    background-color: rgb(215, 234, 250);
+    color: blue;
+    font-weight: 600;
+    padding: 5px 0;
+    border-radius: 5px;
+    border: none;
+    transition: transform .9s;
+}
+button:hover{
+    transform: scale(0.8);
+}

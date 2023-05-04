@@ -1,0 +1,33 @@
+.started{
+    background-color: blue;
+    border-radius:10px ;
+    text-align: center;
+    padding: 40px 0;
+    color: white;
+}
+.started h2{
+    color: white;
+}
+.btn-3 button{
+    border: 3px solid white;
+    color:white;
+    background-color: rgb(56, 56, 241);
+    font-weight: 600;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.btn-3 button:hover{
+    transform: scale(1.1);
+    transition: all 0.5s;
+}
+
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 250px;
+}
+ul li{
+    list-style: none;
+    font-weight: 600;
+}
