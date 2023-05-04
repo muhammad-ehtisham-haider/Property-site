@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Property-site/static/css/main.44029b29.css",
+    "main.js": "/Property-site/static/js/main.22fb2805.js",
+    "static/js/787.cdb026cd.chunk.js": "/Property-site/static/js/787.cdb026cd.chunk.js",
+    "static/media/r3.png": "/Property-site/static/media/r3.8fea7bcf1d27e8fc96eb.png",
+    "static/media/r1.png": "/Property-site/static/media/r1.f4a079c7743f95427201.png",
+    "static/media/r2.png": "/Property-site/static/media/r2.1fe4e12a28319d029d32.png",
+    "static/media/hero-image.png": "/Property-site/static/media/hero-image.eade2b5f1b7c166cb16c.png",
+    "static/media/value.png": "/Property-site/static/media/value.b619962bdea2621cbd6b.png",
+    "static/media/contact.jpg": "/Property-site/static/media/contact.5e0194664deddac4b915.jpg",
+    "static/media/equinix.png": "/Property-site/static/media/equinix.236399b3ed670db792cf.png",
+    "static/media/tower.png": "/Property-site/static/media/tower.cc77e18f59771c7ad75b.png",
+    "static/media/prologis.png": "/Property-site/static/media/prologis.e1c1031f09a0b81f98d9.png",
+    "static/media/realty.png": "/Property-site/static/media/realty.11971af17bb2cc252199.png",
+    "static/media/slick.svg": "/Property-site/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Property-site/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Property-site/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Property-site/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Property-site/index.html",
+    "main.44029b29.css.map": "/Property-site/static/css/main.44029b29.css.map",
+    "main.22fb2805.js.map": "/Property-site/static/js/main.22fb2805.js.map",
+    "787.cdb026cd.chunk.js.map": "/Property-site/static/js/787.cdb026cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44029b29.css",
+    "static/js/main.22fb2805.js"
+  ]
+}
